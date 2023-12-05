@@ -1,0 +1,13 @@
+export { default as Chart } from './Chart/index.vue';
+export { default as Layer } from './Layer/index.vue';
+export { default as Area } from './Area/index.vue';
+export { default as Line } from './Line/index.vue';
+export { default as Bar } from './Bar/index.vue';
+export { default as Pie } from './Pie/index.vue';
+export { default as Responsive } from './Responsive/index.vue';
+export { default as Grid } from './Grid/index.vue';
+export { default as Tooltip } from './Tooltip/index.vue';
+export { default as Group } from './Group/index.vue';
+export { default as Marker } from './Marker/index.vue';
+export { default as Treemap } from './Treemap/index.vue';
+export { default as HoverBar } from './HoverBar/index.vue';
